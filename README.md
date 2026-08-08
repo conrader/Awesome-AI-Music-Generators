@@ -107,6 +107,9 @@
 - **[Riffusion](https://github.com/riffusion/riffusion-app)** [![GitHub stars](https://img.shields.io/github/stars/riffusion/riffusion-app?style=social&color=white)](https://github.com/riffusion/riffusion-app/stargazers) 🌈  
   Stable Diffusion adapted for music generation by converting spectrograms. Enables real-time text-to-music and style transfer.
 
+- **[RunAPI Suno SDK](https://github.com/runapi-ai/suno-sdk)** [![GitHub stars](https://img.shields.io/github/stars/runapi-ai/suno-sdk?style=social&color=white)](https://github.com/runapi-ai/suno-sdk/stargazers) 🎧
+  Open-source SDK for building Suno text-to-music, lyric generation, cover audio, extension, stem separation, and related audio workflows in JavaScript, Python, Ruby, Go, Java, and PHP.
+
 - **[Open-Unmix](https://github.com/sigsep/open-unmix)** [![GitHub stars](https://img.shields.io/github/stars/sigsep/open-unmix?style=social&color=white)](https://github.com/sigsep/open-unmix/stargazers) ✂️  
   State-of-the-art source separation (stems) tool essential for AI music post-processing.
 
